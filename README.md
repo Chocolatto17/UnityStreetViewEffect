@@ -15,9 +15,9 @@ Create a Material from the Shader above.
 | ------------- | ------------- |
 | Panorama (HDR) 1 | A normal image in short (best used with panorama image). Use with Panorama (HDR) 2 to create the street view effect. |
 | Panorama (HDR) 2 | A normal image in short (best used with panorama image). Use with Panorama (HDR) 1 to create the street view effect. |
-| <a href="#tint-color">Tint Color</a> | Tint the panorama texture. |
-| <a href="#exposure">Exposure</a> | Brightness of image. |
-| <a href="#rotation">Rotation</a> | Image rotation around Y axis (where Y points up to the sky). |
+| <a href="#tint-color">Tint Color</a> | Tint the image. |
+| <a href="#exposure">Exposure</a> | Brightness of the image. |
+| <a href="#rotation">Rotation</a> | Image's rotation around Y axis (where Y points up to the sky). |
 | <a href="#blend-amount">Blend Amount</a> | Blend of alpha channel in color of both images. |
 | <a href="#distortion-direction">Distortion Direction</a> | Direction to distort the image while blending, which made the street view effect. |
 
